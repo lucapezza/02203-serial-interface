@@ -6,9 +6,9 @@ This application allows the download and the upload of a P2-type PGM image of si
 
 To genenrate the .exe for MS windows run the following command. Probably the full path for the icon is needed.
 
-'''
+```
 pyinstaller --windowed --onefile --icon=icon.ico --name="Serial interface" serial_interface.py
-'''
+```
 
 ### ToDo:
 
